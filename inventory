@@ -1,0 +1,2 @@
+[servers]
+46.101.209.8 ansible_connection=ssh ansible_ssh_user=root
